@@ -11,7 +11,7 @@ pipeline {
     }
     stage('Pull') {
       steps {
-        sh './scripts/push.sh'
+        sh './scripts/pull.sh'
       }
     }
     stage('Logout') {
