@@ -1,2 +1,2 @@
 #!/bin/bash
-docker push sinhatushar810/abcd_repo
+docker push sinhatushar810/webserver
